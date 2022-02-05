@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/d/Work/Work_2022/Rust/NFT-Marketplace-with-Rust-on-Solana/program/target/release/build/typenum-ae9dd920c30c8345/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/d/Work/Work_2022/Rust/NFT-Marketplace-with-Rust-on-Solana/program/target/release/build/typenum-ae9dd920c30c8345/out/op.rs
